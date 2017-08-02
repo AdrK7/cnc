@@ -26,7 +26,7 @@ pwm.start(5)
 dx=0.075; #resolution in x direction. Unit: mm
 dy=0.075; #resolution in y direction. Unit: mm
 
-Engraving_speed=2.5; #unit=mm/sec=0.04in/sec
+Engraving_speed=1.5; #unit=mm/sec=0.04in/sec
 
 
 #################    Other initialization    ###################################################
